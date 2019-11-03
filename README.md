@@ -9,6 +9,11 @@ Sample projects for HoloLens1 by using MRTKv2
 Unity and Visual Studio 2019 are installed by using Unity Hub.
 
 ## HoloLens1-MRTKv2-Basic-Interaction
+The color of Cube object is changed by using InteractableColorTheme. The following states are there:
+
+* Default: **Blue**
+* Focus: **Yellow**
+* Pressed: **Red**
 
 ### Demo
 
