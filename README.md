@@ -18,3 +18,15 @@ The color of Cube object is changed by using InteractableColorTheme. The followi
 ### Demo
 
 ![](./img/HoloLens1-MRTKv2-Basic-Interaction.gif)
+
+## HoloLens1-MRTKv2-Voice-control
+
+### Demo
+
+![](./img/HoloLens1-MRTKv2-Voice-control.gif)
+
+## HoloLens1-MRTKv2-Spatial-awareness
+
+### Demo
+
+![](./img/HoloLens1-MRTKv2-Spatial-awareness.gif)
